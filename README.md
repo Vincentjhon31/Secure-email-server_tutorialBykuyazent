@@ -4,7 +4,7 @@
 Una gagawa ka ng file dalawa.
 
 Ang name ay exploit.py
-Tapos yung isa ay z3_crack.py(pangalawa ko send codes)
+Tapos yung isa ay z3_crack.py
 
 
 Tapos pag na lagay mo na codes jan sa dalawa na yan, maga pip install requests tqdm z3-solver
